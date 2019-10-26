@@ -8,3 +8,4 @@ edition = "2018"
 
 [dependencies]
 hyper = "0.12.35"
+futures = "0.1.29"
